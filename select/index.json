@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "We Are the World 25 for Haiti",
+  "base_artist": "wearetheworld",
+  "createdAt": "2026-02-19T12:10:25.388680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/01_We_Are_The_World_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Are the World Pollution",
+      "artist": "Hammerforce",
+      "has_synced": false,
+      "path": "select/02_We_Are_the_World_Pollution_Hammerforce.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/03_We_Are_The_World_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_We_Are_the_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_We_Are_the_World_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/06_We_Are_The_World_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/07_We_Are_The_World_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/08_We_Are_The_World_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Dionne Warwick",
+      "has_synced": true,
+      "path": "select/09_We_Are_the_World_Dionne_Warwick.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Are The World (Demo)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/10_We_Are_The_World_(Demo)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "USA for Africa",
+      "has_synced": true,
+      "path": "select/11_We_Are_the_World_USA_for_Africa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Joan Orleans",
+      "has_synced": false,
+      "path": "select/12_We_Are_the_World_Joan_Orleans.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "Usa For Africa",
+      "has_synced": true,
+      "path": "select/13_We_Are_The_World_Usa_For_Africa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/14_We_Are_the_World_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Are The World",
+      "artist": "USA For Africa",
+      "has_synced": true,
+      "path": "select/15_We_Are_The_World_USA_For_Africa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "世界の中心~We Are The World~",
+      "artist": "青山テルマ",
+      "has_synced": false,
+      "path": "select/16_世界の中心~We_Are_The_World~_青山テルマ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "we are the world",
+      "artist": "we are the world",
+      "has_synced": false,
+      "path": "select/pl_01_we_are_the_world_we_are_the_world.txt"
+    }
+  ]
+}
